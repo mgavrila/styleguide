@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/amg-styleguide.ts"],
+  "files": ["src/amg-styleguide.js"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
